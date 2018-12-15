@@ -19,8 +19,8 @@ There are two versions:
 * the second one the last line of the first paragraph is "23 centesimis." (Let us name it "B".)
 
 ### Version A
-![preview](https://books.google.pl/books/content?id=oAicNa---M8C&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U2Kq5c0P0jIm3SiarWVEOqf0X5Djg&w=1025)
 ![preview](https://books.google.pl/books/content?id=2dlkRbUfzKsC&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U0dZBpVNXVbn9A-S6TnNDoWuHMtdg&w=1025)
+![preview](https://books.google.pl/books/content?id=oAicNa---M8C&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U2Kq5c0P0jIm3SiarWVEOqf0X5Djg&w=1025)
 ![preview](https://books.google.pl/books/content?id=HrJRAAAAcAAJ&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U29zZlz-01lDm4PvhS_BzSEny-emQ&w=1025)
 ![preview](https://books.google.pl/books/content?id=K-pEAQAAMAAJ&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U0Fq4QJSR9YelYHQPbnP626c7MIfw&w=1025)
 ![preview](https://books.google.pl/books/content?id=-BTPYGlj47wC&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U1KlViHgoW9n9igCL5pUMmgyNy6KQ&w=1025)
@@ -36,7 +36,7 @@ Additionally Acta Eruditorum 1685 is available as [DJVU digitization](http://obc
 
 ## Further reading
 
-* [A. A. Kochański, _Observationes cyclometricae ad facilitandam praxin accomodatae_, Acta Eruditorum 4 (1685) 394–398.](https://books.google.pl/books?id=HrJRAAAAcAAJ&hl=pl&pg=PA397#v=onepage&q&f=false)
+* [A. A. Kochański, _Observationes cyclometricae ad facilitandam praxin accomodatae_, Acta Eruditorum 4 (1685) 394–398.](https://books.google.pl/books?id=2dlkRbUfzKsC&hl=pl&pg=PA397#v=onepage&q&f=false)
 * [H. Fukś. _Observationes cyclometricae by Adam Adamandy Kochański – Latin text with annotated English translation_, 2011.](https://arxiv.org/abs/1106.1808.pdf)
 * [H. Fukś. _Adam Adamandy Kochański’s approximations of π: Reconstruction of the algorithm._ The Mathematical Intelligencer, 34(4): 40–45, 2012.](https://doi.org/10.1007/s00283-012-9312-1)
 * [Wikipedia contributors. _Acta Eruditorum_ [Internet]. Wikipedia, The Free
