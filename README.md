@@ -24,6 +24,7 @@ There are two versions:
 ![preview](https://books.google.pl/books/content?id=HrJRAAAAcAAJ&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U29zZlz-01lDm4PvhS_BzSEny-emQ&w=1025)
 ![preview](https://books.google.pl/books/content?id=K-pEAQAAMAAJ&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U0Fq4QJSR9YelYHQPbnP626c7MIfw&w=1025)
 ![preview](https://books.google.pl/books/content?id=-BTPYGlj47wC&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U1KlViHgoW9n9igCL5pUMmgyNy6KQ&w=1025)
+![preview](https://books.google.pl/books/content?id=STHzkXN2WIYC&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U0J6R9tBNa4kpyloBFz8VT9z5cE1w&w=1025)
 ![preview](https://books.google.pl/books/content?id=IEDlshhCqCQC&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U3AsjuCpMpdZcFlo9uePy6x2F-nvA&w=1025)
 
 Additionally Acta Eruditorum 1685 is available as [DJVU digitization](http://obc.opole.pl/dlibra/doccontent?id=6778) prepared by Opole Digital Library.
