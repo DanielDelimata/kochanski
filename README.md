@@ -1,9 +1,9 @@
-# kochanski
+# Kochański's Approximation
 LaTeX facsimile of the Kochański's approximation published in Acta Eruditorum in 1685
-## About the project
-The project is a proof of concept of creating a digital replica of old
-scientific texts. Here as an example a page of _Acta Eruditorum_ was used. The
-page presents approximate construction by Adam Adamandy Kochański.
+## About the Project
+The project is a proof of concept for creating digital replicas of old
+scientific texts. Here, as an example, a page from _Acta Eruditorum_ was used,
+presenting Adam Adamandy Kochański's approximation.
 
 ## Requirements
 To compile the code the following requirements must be met
@@ -15,8 +15,8 @@ To compile the code the following requirements must be met
 
 ## Original typesetting – various digitizations
 There are two versions:
-* one the last line of the first paragraph is "dere, minus quam 23 centesimis." (Let us name it "A".)
-* the second one the last line of the first paragraph is "23 centesimis." (Let us name it "B".)
+* Version A, where the last line of the first paragraph is "dere, minus quam 23 centesimis." 
+* Version B, where the last line of the first paragraph is "23 centesimis."
 
 ### Version A
 ![preview](https://books.google.pl/books/content?id=2dlkRbUfzKsC&hl=en&pg=PA397&img=1&zoom=3&sig=ACfU3U0dZBpVNXVbn9A-S6TnNDoWuHMtdg&w=1025)
